@@ -1,0 +1,6 @@
+---
+name: RainbowChat
+version: 0.0.1
+main: NhanAZ\RainbowChat\Main
+api: 4.0.0
+...
